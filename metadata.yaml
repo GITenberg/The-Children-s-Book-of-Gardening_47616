@@ -1,0 +1,31 @@
+_repo: The-Children-s-Book-of-Gardening_47616
+contributor:
+  illustrator:
+    agent_name: Cayley-Robinson, Mrs.
+    gutenberg_agent_id: '44397'
+    url: http://www.gutenberg.org/2009/agents/44397
+creator:
+  authors:
+  - agent_name: Paynter, Mrs.
+    gutenberg_agent_id: '44396'
+    url: http://www.gutenberg.org/2009/agents/44396
+  - agent_name: Sidgwick, Alfred, Mrs.
+    aliases:
+    - Ullmann, Cecily Wilhelmine
+    - Sidgwick, Cecily Wilhelmine
+    - Sidgwick, Mrs. Alfred
+    birthdate: 1854
+    deathdate: 1934
+    gutenberg_agent_id: '33332'
+    url: http://www.gutenberg.org/2009/agents/33332
+description: ''
+gutenberg_issued: '2014-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Children's Book of Gardening
+url: http://www.gutenberg.org/ebooks/47616
